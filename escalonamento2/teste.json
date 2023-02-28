@@ -1,0 +1,6 @@
+{"P1" : [10, 2, "/bin/P1", "usuario1"],
+ "P2" : [20, 3, "/bin/P2", "usuario2"],
+ "P3" : [5, 4, "/bin/P3", "usuario1"],
+ "P4" : [13, 3, "/bin/P4", "usuario2"],
+ "P5" : [8, 2, "/bin/P4", "usuario1"],
+ "P6" : [40, 1, "/bin/P5", "usuario2"]}
